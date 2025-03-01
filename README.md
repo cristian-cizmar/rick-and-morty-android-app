@@ -9,7 +9,6 @@
 ### 📸 Screenshots
 <img src="https://github.com/user-attachments/assets/73e44049-ce6c-4b7a-9b00-9080c1580103" alt="screenshot_1" width="300"/>
 <img src="https://github.com/user-attachments/assets/c2e742fb-b923-4775-8c3b-1abd44a9c1cf" alt="screenshot_2" width="300"/>
-<img src="https://github.com/user-attachments/assets/83567847-7816-4795-ad19-41d6d99ec548" alt="screenshot_3" width="300"/>
 
 ### 💻 Tech stack
 - Jetpack Compose
