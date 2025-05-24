@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/2e02efba-16d0-4b21-b2de-af81e664ddeb
 - Mockito
 
 ### ⬇️ Download
-You can [download the APK here](https://github.com/cristian-cizmar/rick-and-morty-android-app/releases/) to try the app without building the code
+You can [download the APK](https://github.com/cristian-cizmar/rick-and-morty-android-app/releases/) to try the app
 
 ### 📝 Notes
 I wasn't sure whether to add Hilt or not, since it's not really necessary for such a small project, but I did it anyway because most real projects require dependency injection
